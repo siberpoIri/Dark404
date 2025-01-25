@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://xn-----btdbbgiyf9afi2c4jzb5c4am.com/fun/sitemap.xml 
